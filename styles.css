@@ -1,0 +1,214 @@
+h1,h2{
+    color:brown;
+}
+h3{
+    color:brown;
+}
+b{
+    color:brown;
+}
+body
+{
+    font-family:'Times New Roman', Times, serif;
+    margin:0 auto;
+    width:1350px;
+    font-size: large;
+    
+}
+
+a:link,a:visited{
+    text-decoration:none;
+    color:brown;
+    font-weight:bold;
+}
+a:hover
+{
+    color:black;
+}
+nav ul{
+    list-style-type:none;
+    padding:0;
+}
+nav li{
+    display:inline;
+    float:left;
+}
+header nav a:link,nav a:visited{
+    background-color:brown;
+    color:white;
+    display:block;
+    width:225px;
+    text-align:center;
+    padding:10px 0;
+}
+header nav a:hover{
+    background-color:black;
+}
+aside {
+    width:310px;
+ float:right;
+ background-color:tan;
+ text-align:center;
+ font-weight:bold;
+ padding:20px;   
+ margin-left:40px;
+ margin-top:30px
+}
+
+figure{
+   margin-right:50px;
+   margin-left:8px;
+}
+header{
+   background-image:url("cbeans1.jpg");
+    height: 100px;
+    margin-bottom:0px;
+}
+header h1 {
+    color:rgba(255, 255, 255, 0.695);
+    margin-left:0px;
+    margin-top:20px;
+    font-size:50px;
+}
+footer{
+    color:rgba(190, 101, 101, 0.86);
+    margin:0;
+}
+footer nav a:link ,footer nav a:visited{
+    color:gray;
+    text-decoration:none;
+    margin-top:80px;
+    text-align:center;
+}
+footer nav a:hover{
+color:black;
+background-color:none;
+
+}
+footer nav a:link,nav a:visited{
+    background-color: none;
+    display:block;
+    width:210px;
+    text-align:center;
+    padding:10px 0;
+}
+td,th{
+    border:1.8px solid black;
+    width:20%;
+    text-align:center;
+    padding: 5px;
+}
+table{
+    border-collapse:collapse;
+   
+}
+
+form{
+    margin-top:50px;
+}
+h2{
+    margin-top:50px;
+}
+header figure{
+    margin-top:30px;
+    float:right;
+    margin-right:5px;
+}
+figcaption{
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
